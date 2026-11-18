@@ -1,0 +1,4 @@
+.deepseek_key
+.env
+.env.*
+.DS_Store
